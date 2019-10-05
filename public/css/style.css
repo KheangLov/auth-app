@@ -1,0 +1,49 @@
+.fa.fa-custom {
+  font-size: 75px;
+}
+
+.fa.fa-color-primary {
+  color: #009688;
+}
+
+.fa.fa-color-warning {
+  color: #ff5722;
+}
+
+.fa.fa-color-info {
+  color: #03a9f4;
+}
+
+.fa.fa-color-danger {
+  color: #f44336;
+}
+
+.font-50 {
+  font-size: 50px;
+}
+
+.media {
+  overflow: hidden;
+}
+
+.media .media-title {
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.card h1.card-title.card-custom-title,
+.card h2.card-title.card-custom-title,
+.card h3.card-title.card-custom-title,
+.card h4.card-title.card-custom-title,
+.card h5.card-title.card-custom-title,
+.card h6.card-title.card-custom-title {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.card .card-text {
+  height: 63px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
